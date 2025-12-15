@@ -28,7 +28,7 @@ namespace LINQ
     }
     class Program6
     {
-        static void Main()
+        static void Main6()
         {
             var items = new List<Item>
             {
