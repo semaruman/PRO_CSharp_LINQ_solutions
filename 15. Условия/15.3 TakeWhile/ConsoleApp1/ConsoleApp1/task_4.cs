@@ -16,7 +16,7 @@ public class Detail
 
 public class MainClass4
 {
-    public static void Main()
+    public static void Main4()
     {
         // put your c# code here
         int n = Convert.ToInt32(Console.ReadLine());
