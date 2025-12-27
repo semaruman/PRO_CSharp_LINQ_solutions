@@ -3,7 +3,7 @@ using System.Linq;
 
 public class Program4
 {
-    public static void Main()
+    public static void Main4()
     {
         string s1 = Console.ReadLine();
         string s2 = Console.ReadLine();
